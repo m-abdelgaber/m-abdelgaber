@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abdelgaber</h1>
 <h3 align="center">A passionate ML and Data Science learner. I've experienced the field through multiple opportunities (bachelor project, internship, uni courses and Udacity nondegree). My goal is to become a professional in the ways of shaping and utilizing data to create applications that benefit people. My plan is to keep doing that till I come out on top!</h3>
 
 <h3 align="left">Connect with me:</h3>
