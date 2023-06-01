@@ -1,4 +1,4 @@
-<h3 align="center">A passionate ML and Data Science learner. I've experienced the field through multiple opportunities (bachelor project, internship, uni courses and Udacity nondegree). My goal is to become a professional in the ways of shaping and utilizing data to create applications that benefit people. My plan is to keep doing that till I come out on top!</h3>
+<h3 align="center">Highly motivated Computer Engineering graduate with a strong focus on software development. Skilled in Python, Java, JavaScript, C++, and SQL, with experience in MERN stack, Google Cloud, and Docker. Currently interested in Salesforce development. Seeking opportunities to contribute to innovative projects and collaborate with professionals in the software development field. Open to new challenges and eager to make a valuable impact.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
