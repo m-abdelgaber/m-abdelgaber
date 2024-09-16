@@ -5,17 +5,16 @@
 <p align="center">
     </a>
     <a href="https://twitter.com/MM_Abdelgaber" target="blank">
-        <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
- alt="m-Abdelgaber" height="30" width="40" />
+        <img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m-Abdelgaber" height="60" width="90" />
     </a>
     <a href="https://linkedin.com/in/m-Abdelgaber" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-Abdelgaber" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-Abdelgaber" height="60" width="90"  />
     </a>
     <a href="https://www.leetcode.com/m-Abdelgaber" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m-Abdelgaber" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m-Abdelgaber" height="60" width="90" />
     </a>
     <a href="https://trailblazer.me/id/M-Abdelgaber" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="m-Abdelgaber" height="30" width="40" />
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" alt="m-Abdelgaber height="60" width="90"  />
     </a>
     
 </p>
@@ -60,17 +59,18 @@
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
         <p align="center">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=m-abdelgaber&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelgaber"/>
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=m-abdelgaber&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelgaber" 
+                height="200" width="500"/>
+        </p>
+<!--     </div>
+    <div style="flex: 1;">
+        <p align="center">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-abdelgaber&show_icons=true&locale=en&theme=dark" alt="m-abdelgaber" height="200" width="500"/>
         </p>
     </div>
     <div style="flex: 1;">
         <p align="center">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=m-abdelgaber&show_icons=true&locale=en&theme=dark" alt="m-abdelgaber" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdelgaber&theme=dark" alt="m-abdelgaber" height="200" width="500"/>
         </p>
-    </div>
-    <div style="flex: 1;">
-        <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdelgaber&theme=dark" alt="m-abdelgaber" />
-        </p>
-    </div>
+    </div> -->
 </div>
