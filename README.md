@@ -1,4 +1,7 @@
-<h4 align="center">Highly motivated Computer Engineering graduate with a strong focus on software development. Skilled in Python, Java, JavaScript, C++, and SQL, with experience in MERN stack, Google Cloud, and Docker. Currently interested in Salesforce development. Seeking opportunities to contribute to innovative projects and collaborate with professionals in the software development field. Open to new challenges and eager to make a valuable impact.</h3>
+<h3 align="center">Highly motivated Computer Engineering graduate with a strong focus on software development.<br>
+Skilled in Python, Java, JavaScript, C++, and SQL, with experience in MERN stack, Google Cloud, and Docker. <br>
+Currently interested in Salesforce development. Seeking opportunities to contribute to innovative projects and collaborate with professionals in the software development field.<br>
+</h3>
 <hr>
 
 <h3 align="center">Connect with me</h3>
@@ -60,7 +63,7 @@
     <div style="flex: 1;">
         <p align="center">
             <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=m-abdelgaber&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelgaber" 
-                height="200" width="500"/>
+               width="600"/>
         </p>
 <!--     </div>
     <div style="flex: 1;">
