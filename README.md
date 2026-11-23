@@ -57,14 +57,7 @@ Currently interested in Salesforce development. Seeking opportunities to contrib
     </a>
 </p> -->
 
-<hr>
-<h3 align="center">Stats</h3>
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        <p align="center">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=m-abdelgaber&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelgaber" 
-               width="500"/>
-        </p>
+
 <!--     </div>
     <div style="flex: 1;">
         <p align="center">
